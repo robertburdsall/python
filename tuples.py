@@ -1,4 +1,4 @@
-#  tuple = a collection of elements which is ordered and unchangeable
+#  tuple = a collection of elements which is unordered and unchangeable
 #  used to group together related data
 
 student = ("Bro", 21, "male")
